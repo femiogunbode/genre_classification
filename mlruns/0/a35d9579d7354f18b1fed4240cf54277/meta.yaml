@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/femi/Desktop/workspace/femi/udacity/ML-DEVOPS-ND/genre_classification/mlruns/0/a35d9579d7354f18b1fed4240cf54277/artifacts
+end_time: 1641216388766
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: a35d9579d7354f18b1fed4240cf54277
+run_uuid: a35d9579d7354f18b1fed4240cf54277
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1641216380036
+status: 4
+tags: []
+user_id: femi
